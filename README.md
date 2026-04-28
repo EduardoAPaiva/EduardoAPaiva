@@ -1,6 +1,6 @@
 ## Hello, i'm Eduardo Paiva
 
- - 🎓 Undergraduate student in Computer Engineering at University of São Paulo (USP) - EESC & ICMC
+ - 🎓 Undergraduate student in Computer Engineering at University of São Paulo (USP) - EESC & ICMC 
 
  - 🔬 Currently conducting research on load monitoring using neural network architectures such as MobileNet
 
