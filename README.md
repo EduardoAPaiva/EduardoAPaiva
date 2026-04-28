@@ -1,4 +1,4 @@
-## Hello, i'm Eduardo Paiva
+## Hello, I'm Eduardo Paiva
 
  - 🎓 Undergraduate student in Computer Engineering at University of São Paulo (USP) - EESC & ICMC 
 
