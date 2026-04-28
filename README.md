@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello, i'm Eduardo Paiva
+
+ - 🎓 Undergraduate student in Computer Engineering at University of São Paulo (USP) - EESC & ICMC
+
+ - 🔬 Currently conducting research on load monitoring using neural network architectures such as MobileNet
+
+ - 🌱 Currently honing my skills in: Digital Signal Processing and Python (NILMTK)
+
+ - 📫 Reach me at: edalpa0@gmail.com
 
 <!--
 **EduardoAPaiva/EduardoAPaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
